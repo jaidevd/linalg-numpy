@@ -1,10 +1,8 @@
-# pyconf-hyd-linalg
-
-This repository contains material for my Linear Algebra workshop at PyConf Hyderabad 2019.
+# Linear Algebra with NumPy
 
 ## Installation
 
-This workshop requires these Python modules:
+This tutorial requires these Python modules:
 * numpy
 * scipy
 * matplotlib
@@ -14,7 +12,7 @@ This workshop requires these Python modules:
 
 ## Contents
 
-1. [Introduction, Conventions and Notation](01_intro.ipynb)
-2. [Systems of Equations](02_linear_systems.ipynb)
-3. [Fourier Analysis](03_fourier.ipynb)
-4. [Dimensionality Reduction](04_dimensionality_reduction.ipynb)
+| 1. | [Introduction, Conventions and Notation](01_intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaidevd/linalg-numpy/blob/master/01_intro.ipynb) |
+| 2. | [NumPy Basics - Array creation, elementary ops, ufuncs, indexing](02_numpy_basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaidevd/linalg-numpy/blob/master/02_numpy_basics.ipynb) | 
+| 3. | [Systems of Equations](03_linear_systems.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaidevd/linalg-numpy/blob/master/03_linear_systems.ipynb) |
+| 4. | [Applications](04_applications.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaidevd/linalg-numpy/blob/master/04_applications.ipynb) |
